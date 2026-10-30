@@ -1,0 +1,6 @@
+{
+  "name": "Campus Compass — CSJMU 3D Navigation",
+  "description": "Immersive 3D real-world campus navigation and open-world exploration for Chhatrapati Shahu Ji Maharaj University (CSJMU), Kalyanpur, Kanpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
